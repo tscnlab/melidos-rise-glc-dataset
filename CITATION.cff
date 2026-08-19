@@ -1,0 +1,68 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Personal light exposure dataset for Borås, Sweden'
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Maria
+    family-names: Nilsson Tengelin
+    email: maria.nilssontengelin@ri.se
+    affiliation: RISE Research Institutes of Sweden
+    orcid: 'https://orcid.org/0000-0002-0909-626X'
+  - given-names: Ingemar
+    family-names: Svensson
+    email: ingemar.svensson@ri.se
+    affiliation: RISE Research Institutes of Sweden
+    orcid: 'https://orcid.org/0009-0006-9283-509X'
+  - given-names: Stefan
+    family-names: Källberg
+    email: stefan.kallberg@ri.se
+    orcid: 'https://orcid.org/0009-0003-8259-3400'
+    affiliation: RISE Research Institutes of Sweden
+  - given-names: Johannes
+    family-names: Zauner
+    email: johannes.zauner@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics
+    orcid: 'https://orcid.org/0000-0003-2171-4566'
+  - given-names: Manuel
+    family-names: Spitschan
+    email: manuel.spitschan@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics; TUM Institute for Advanced
+      Study (TUM-IAS)
+    orcid: 'https://orcid.org/0000-0002-8572-9268'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.18954381
+    description: Zenodo archive (V1.0.0)
+  - type: doi
+    value: 10.5281/zenodo.18925834
+    description: Zenodo Archive (latest version)
+repository-code: >-
+  https://github.com/MeLiDosProject/NilssonTengelinEtAl_Dataset_2026
+url: 'https://www.melidos.eu'
+abstract: >-
+  This repository contains the comprehensive dataset for the
+  MeLiDos field study site of Borås, Sweden. Data were
+  collected by Research Institutes of Sweden (RISE) and are
+  further processed and analysed by the Translational
+  Sensory & Circadian Neuroscience Unit (TSCN). A detailed
+  description of the experiment is available in Guidolin et
+  al., 2024.
+keywords:
+  - light exposure
+  - wearable
+  - healthy light
+  - circadian
+  - melanopic
+  - naturalistic setting
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2026-03-09'

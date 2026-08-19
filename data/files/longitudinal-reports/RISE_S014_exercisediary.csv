@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"RISE_S014","2025-10-06",1,3,1,"Gick till och från jobbet + ärende totalt 70min",70,660,1,"2025-10-06 21:09:22","2025-10-06 21:15:32","Walked to and from work + errand, total 70min"
+"RISE_S014","2025-10-07",1,3,1,"30min gå till jobbet (åkte bil hem)",30,600,1,"2025-10-07 20:44:10","2025-10-07 20:46:48","30 min walk to work (drove car home)"
+"RISE_S014","2025-10-08",1,1,2,"60min totalt gå till / från jobb + 50min styrketräning gym",70,660,1,"2025-10-08 23:01:48","2025-10-08 23:03:55","60min total walking to/from work + 50min strength training at gym"
+"RISE_S014","2025-10-09",1,3,1,"35min gå till jobb (skjuts hem)",35,720,1,"2025-10-09 21:34:59","2025-10-09 21:36:10","35min walk to work (ride home)"
+"RISE_S014","2025-10-10",1,2,2,"60min total gå till från jobb och 60 min gym",70,720,1,"2025-10-10 23:46:09","2025-10-10 23:47:52","60 min total walking to and from work and 60 min gym"
+"RISE_S014","2025-10-11",1,4,,,30,720,,"2025-10-11 22:25:58","2025-10-11 22:26:56",
+"RISE_S014","2025-10-12",1,1,2,"styrketräning gym 60min",8,600,1,"2025-10-12 21:16:14","2025-10-12 21:16:39","strength training gym 60min"

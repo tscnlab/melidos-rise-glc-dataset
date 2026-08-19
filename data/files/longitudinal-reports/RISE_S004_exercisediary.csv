@@ -1,0 +1,7 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"RISE_S004","2025-03-25",1,3,1,"promenad i rask takt 45 minuter",60,500,1,"2025-03-25 22:43:17","2025-03-25 22:44:03","brisk walk 45 minutes"
+"RISE_S004","2025-03-26",1,4,,,30,780,,"2025-03-26 23:33:33","2025-03-26 23:34:30",
+"RISE_S004","2025-03-27",1,4,,,30,600,,"2025-03-27 22:53:07","2025-03-27 22:53:37",
+"RISE_S004","2025-03-28",1,3,1,"raska promenader",120,600,1,"2025-03-28 23:53:43","2025-03-28 23:54:47","brisk walks"
+"RISE_S004","2025-03-29",1,3,3,"promenad, snickeri på tak utomhus, golf",200,200,1,"2025-03-30 09:08:57","2025-03-30 09:10:09","walk, carpentry on roof outdoors, golf"
+"RISE_S004","2025-03-30",1,3,3,"möblerade om, promenader ute",150,300,1,"2025-03-31 02:31:27","2025-03-31 02:33:22","rearranged furniture, walks outdoors"

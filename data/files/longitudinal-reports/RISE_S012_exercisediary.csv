@@ -1,0 +1,9 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"RISE_S012","2025-06-09",1,3,2,"promenad  yoga",20,10,0,"2025-06-09 21:50:10","2025-06-09 21:51:53","walking, yoga"
+"RISE_S012","2025-06-10",1,4,,,10,60,,"2025-06-10 21:42:42","2025-06-10 21:43:24",
+"RISE_S012","2025-06-11",1,1,2,"Högintensiv intervallträning",15,35,1,"2025-06-11 21:46:32","2025-06-11 21:47:38","High-intensity interval training"
+"RISE_S012","2025-06-12",1,2,1,"rask promenad/jogging",10,240,1,"2025-06-12 21:58:32","2025-06-12 21:59:49","brisk walk/jogging"
+"RISE_S012","2025-06-13",1,1,2,"Högintensiv intervallträning",15,120,1,"2025-06-13 22:12:58","2025-06-13 22:13:59","High-intensity interval training"
+"RISE_S012","2025-06-14",1,3,1,"promenad",15,120,1,"2025-06-14 22:18:35","2025-06-14 22:19:37","walk"
+"RISE_S012","2025-06-15",1,3,1,"Radk promenad",10,140,1,"2025-06-15 22:03:45","2025-06-15 22:04:35",
+"RISE_S012","2025-06-16",1,2,3,"Rörlighetsträning . Rask promenad",15,120,1,"2025-06-16 21:39:45","2025-06-16 21:40:51","Mobility training. Brisk walk"

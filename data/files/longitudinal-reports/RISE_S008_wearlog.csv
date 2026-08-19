@@ -1,0 +1,7 @@
+"Id","start","state","duration","end","wearlog_event","reason","wearlog_type","radius","wearlog_bp","wearlog_bag","wearlog_place","wearlog_motion","wearlog_place_english"
+"RISE_S008","2025-04-28 22:07:00","sleep",488,"2025-04-29 06:15:00",3,,1,,,,,,
+"RISE_S008","2025-04-29 22:37:00","sleep",431,"2025-04-30 05:48:00",3,,1,,,,,,
+"RISE_S008","2025-04-30 21:10:00","off",135,"2025-04-30 23:25:00",1,5,1,,,0,"på bordet uppochner",0,"on the table upside down"
+"RISE_S008","2025-05-02 22:28:00","sleep",557,"2025-05-03 07:45:00",3,,1,,,,,,
+"RISE_S008","2025-05-03 22:12:00","sleep",533,"2025-05-04 07:05:00",3,,1,,,,,,
+"RISE_S008","2025-05-04 21:46:00","sleep",529,"2025-05-05 06:35:00",3,,1,,,,,,
